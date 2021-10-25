@@ -40,7 +40,6 @@ public class MainApp2 {public static void main(String[] args) {
         System.out.println(c);
     }
 
-
     public static void text() {
         Scanner g = new Scanner(System.in);
         System.out.println("Введите текст");
